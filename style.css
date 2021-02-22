@@ -1,0 +1,86 @@
+.heading-one{
+text-align: center;
+top: 40px;
+padding: 10px;
+border: inset;
+border-width: medium
+margin-top: 20%;
+font-size: 60px;
+border-radius: 200px;
+}
+
+
+
+.img-face{
+height: 300px;
+width: 300px;
+margin-left: 40%;
+border-radius: 500px;
+
+}
+
+
+
+.heading-two{
+text-align: center;
+border: solid;
+font-size: 30px;
+border-radius: 900px;
+}
+
+.div-one{
+background-color: #a4ebf3;
+color: #f1f6f9;
+
+}
+
+.img-draco{
+margin-left: 40%;
+height: 300px;
+width: 300px;
+border-radius: 500px;
+
+}
+
+.demon-slayer{
+width: 500px;
+height: 300px;
+margin-bottom: 10px;
+
+}
+
+.write-stories{
+width: 500px;
+height: 300px;
+margin-bottom: 10px;
+
+}
+
+.magic{
+width: 500px;
+height:300px;
+margin-bottom: 10px;
+
+}
+
+.divination{
+width: 500px;
+height:400px;
+margin-bottom: 10px;
+
+}
+
+.lists{
+font-size: 30px;
+text-align: center;
+background-color: #a685e2;
+}
+
+.info{
+background: #f6f6f6;
+border: solid;
+font-size: 30px;
+
+
+
+}
